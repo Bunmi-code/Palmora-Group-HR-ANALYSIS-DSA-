@@ -13,5 +13,6 @@ I learnt quite a lot of method on how data can be cleaned and how data can be us
 At the initial phase of the data cleaning and presentation, i perform the following action 
 1. Data Loading and inspection 
 2. Handling missing variables
-3. Data cleaning 
+3. Data cleaning
+4. Data Modeling 
 
