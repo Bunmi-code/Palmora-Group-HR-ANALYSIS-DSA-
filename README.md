@@ -29,4 +29,5 @@ Palmora group data was explored to answer the the following pressing questions
 - Total numbers of employee that and doesn't meet up with the new salary benchmark
 - Total salary paid by region
 
-  ### Palmora Group HR Analysis Dashboard 
+  ### Palmora Group HR Analysis Dashboard
+  
