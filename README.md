@@ -1,7 +1,7 @@
 ### My-data-analytics-documentation
 This is where I started my portfolio building while taking data analytics class with the incubator hub.
 I learnt quite a lot of method on how data can be cleaned and how data can be used in making reasonable decisions, using Microsoft excel, SQL, PowerBi tools. 
-### project Topic: Palmoria Group Employee, Gender, Salary Analysis 
+### project Topic: Palmora Group HR Analysis 
 ### Project Overview
 This analysis aimed to generate insight into the employee database over the years,by analyzing the various parameters in the data received, we seek to gather enough insights to make reasonable decisions and answer some pressing questions around the data from the insight gotten. 
 ### Data Source 
