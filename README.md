@@ -21,4 +21,12 @@ At the initial phase of the data cleaning and presentation, i perform the follow
    
   ### Exploratory Data Analysis 
 Palmoria group data was explored to answer the the following pressing questions  
-1 what is the gender distribution in the organization 
+- Total Number of Employee in the organization
+- Gender distribution based on region and department
+- Company salary distribution, identifying if gender pay gap exists by region and department
+- Total Bonus paid to all employees
+- Insight on gender ratings
+- Total numbers of employee that and doesn't meet up with the new salary benchmark
+- Total salary paid by region
+
+  ### Palmora Group HR Analysis Dashboard 
