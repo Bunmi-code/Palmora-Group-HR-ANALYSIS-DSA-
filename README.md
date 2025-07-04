@@ -32,4 +32,9 @@ Palmora group data was explored to answer the the following pressing questions
   ### Palmora Group HR Analysis Dashboard
 
   #https://github.com/Bunmi-code/My-data-analytics-documentation/blob/main/PALMORA%20DASHBOARD.png
+
+
+  
+https://github.com/Bunmi-code/My-data-analytics-documentation/blob/main/PALMORA%20DATA%20DASHBOARD.png
+  
   
