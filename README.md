@@ -37,11 +37,11 @@ Palmora group data was explored to answer the the following pressing questions
      
   2. Rating based on gender 
      [Download Here](https://github.com/Bunmi-code/Palmora-Group-HR-ANALYSIS-DSA-/blob/main/Gender%20Ratings.png)
-     
-       3. Company salary structured to identify gender paygap
+
+   3. Company salary structured to identify gender paygap. 49% of the salary allocation goes to the male employee while 47% of salary allocation goes to female employees and 4% of the salary goes to unspecified gender. Considering this analysis gender paygap only exists among the unspecified gender
         [Downloade Here](https://github.com/Bunmi-code/Palmora-Group-HR-ANALYSIS-DSA-/blob/main/Gender%20salary%20distribution.png)
   
-  4. Pamora group doesn't meet up with the new salary benchmark as 80% get lower $90,000
+  4. Pamora group doesn't meet up with the new salary benchmark as 80% of the employee are paid below $90,000. The salary schedule needs to be reviewed in order to measure up with the new salary benchmark 
      
  [Download Here](https://github.com/Bunmi-code/Palmora-Group-HR-ANALYSIS-DSA-/blob/main/Total%20employee%20withwithou%20new%20salary%20benchmark.png)
  
@@ -60,11 +60,11 @@ The dataset was visualized using a variety of charts:
  * Cards.
 
    ##### Dashboard
-  dashboard was designed with powerbi, incorporating the charts above, along with slicers and cards for interactivity.
+  dashboard was designed with powerbi, incorporating the charts above, along with filters and cards for interactivity.
   
   [Download here](https://github.com/Bunmi-code/Palmora-Group-HR-ANALYSIS-DSA-/blob/main/PALMORA%20DASHBOARD.png)
   
 [Download here](https://github.com/Bunmi-code/Palmora-Group-HR-ANALYSIS-DSA-/blob/main/PALMORA%20DATA%20DASHBOARD.png)
-##### Conclusion 
+
   
   
