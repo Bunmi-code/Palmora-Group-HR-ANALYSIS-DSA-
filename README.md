@@ -35,14 +35,19 @@ Palmora group data was explored to answer the the following pressing questions
   1. Gender distribution by department and region
      [Download here](https://github.com/Bunmi-code/Palmora-Group-HR-ANALYSIS-DSA-/blob/main/Gender%20Distribution%20by%20Department..png)
      
-  3. Rating based on gender
-     [Download Here](
-       4. Company salary structured to identify gender paygap
+  2. Rating based on gender 
+     [Download Here](https://github.com/Bunmi-code/Palmora-Group-HR-ANALYSIS-DSA-/blob/main/Gender%20Ratings.png)
+     
+       3. Company salary structured to identify gender paygap
+        [Downloade Here](https://github.com/Bunmi-code/Palmora-Group-HR-ANALYSIS-DSA-/blob/main/Gender%20salary%20distribution.png)
   
-  5. Pamora group doesn't meet up with the new salary benchmark as 80% get lower $90,000
+  4. Pamora group doesn't meet up with the new salary benchmark as 80% get lower $90,000
+     
+ [Download Here](https://github.com/Bunmi-code/Palmora-Group-HR-ANALYSIS-DSA-/blob/main/Total%20employee%20withwithou%20new%20salary%20benchmark.png)
  
-  6. Total salary by region
-
+  5. Total salary by region [Download Here](https://github.com/Bunmi-code/Palmora-Group-HR-ANALYSIS-DSA-/blob/main/Total%20Salary%20by%20Region.png)
+ 6.Total Bonus paid
+[Download Here](https://github.com/Bunmi-code/Palmora-Group-HR-ANALYSIS-DSA-/blob/main/Total%20Salary%20by%20Region.png)
 
 
 #### Visualization 
