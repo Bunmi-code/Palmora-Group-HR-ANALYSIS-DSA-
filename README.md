@@ -21,20 +21,37 @@ At the initial phase of the data cleaning and presentation, i perform the follow
 
   ### Business Question Answered 
 Palmora group data was explored to answer the the following pressing questions  
-- Total Number of Employee in the organization
-- Gender distribution based on region and department
-- Company salary distribution, identifying if gender pay gap exists by region and department
-- Total Bonus paid to all employees
-- Insight on gender ratings
-- Total numbers of employee that and doesn't meet up with the new salary benchmark
+  1. what is the gender distribution in the organization? distill to region and department 
+2. show insight on ratings based on gender. 
+3. Analyze the Company salary structure distribution, identify if there's gender pay gap, if it exists identify region and department to be focused on. 
+4. A recent regulation was adopted which requires manufacturing company to pay employees minimum of $90,000
+- does pamoria group meet up with the requirements
+
+- Total number of employees that are paid the minimum requirements
+- Total underpaid employees 
 - Total salary paid by region
 
   ### Palmora Group HR Analysis Dashboard
+  1. Gender distribution by department and region
+  2. Rating based on gender
+  3. Company salary structured to identify gender paygap
+  4. Pamora group doesn't meet up with the new salary benchmark as 80% get lower $90,000
+* Total salary by region
 
+#### Visualization 
+The dataset was visualized using a variety of charts:
+##### Charts
+*Pie Charts
+* Clustered Columns
+ * Cards.
+
+   ##### Dashboard
+  dashboard was designed with powerbi, incorporating the charts above, along with slicers and cards for interactivity.
+  
   #https://github.com/Bunmi-code/My-data-analytics-documentation/blob/main/PALMORA%20DASHBOARD.png
-
-
   
 https://github.com/Bunmi-code/My-data-analytics-documentation/blob/main/PALMORA%20DATA%20DASHBOARD.png
+
+##### Conclusion 
   
   
