@@ -36,8 +36,8 @@ Palmora group data was explored to answer the the following pressing questions
      [Download here](https://github.com/Bunmi-code/Palmora-Group-HR-ANALYSIS-DSA-/blob/main/Gender%20Distribution%20by%20Department..png)
      
   3. Rating based on gender
-     
-  4. Company salary structured to identify gender paygap
+     [Download Here](
+       4. Company salary structured to identify gender paygap
   
   5. Pamora group doesn't meet up with the new salary benchmark as 80% get lower $90,000
  
