@@ -33,14 +33,15 @@ Palmora group data was explored to answer the the following pressing questions
 
   ### Palmora Group HR Analysis Dashboard
   1. Gender distribution by department and region
+     [Download here](https://github.com/Bunmi-code/Palmora-Group-HR-ANALYSIS-DSA-/blob/main/Gender%20Distribution%20by%20Department..png)
      
-  2. Rating based on gender
+  3. Rating based on gender
      
-  3. Company salary structured to identify gender paygap
+  4. Company salary structured to identify gender paygap
   
-  4. Pamora group doesn't meet up with the new salary benchmark as 80% get lower $90,000
+  5. Pamora group doesn't meet up with the new salary benchmark as 80% get lower $90,000
  
-  5. Total salary by region
+  6. Total salary by region
 
 
 
