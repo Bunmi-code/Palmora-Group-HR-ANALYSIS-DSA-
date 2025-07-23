@@ -46,6 +46,7 @@ Palmora group data was explored to answer the the following pressing questions
  [Download Here](https://github.com/Bunmi-code/Palmora-Group-HR-ANALYSIS-DSA-/blob/main/Total%20employee%20withwithou%20new%20salary%20benchmark.png)
  
   5. Total salary by region [Download Here](https://github.com/Bunmi-code/Palmora-Group-HR-ANALYSIS-DSA-/blob/main/Total%20Salary%20by%20Region.png)
+     
  6.Total Bonus paid
 [Download Here](https://github.com/Bunmi-code/Palmora-Group-HR-ANALYSIS-DSA-/blob/main/Total%20Salary%20by%20Region.png)
 
